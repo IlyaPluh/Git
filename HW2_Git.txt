@@ -31,3 +31,8 @@ git merge CheckLists
 git push
 git push -u origin CheckLists
 
+создать репозиторий локально - git init 
+git remote add origin https://github.com/IlyaPluh/Local.git
+git branch -M master
+git push -u origin master
+
